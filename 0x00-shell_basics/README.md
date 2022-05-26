@@ -1,4 +1,6 @@
 The scripts are listed below:
+0. pwd : prints working directory
+
 1. ls : display the contents list of the current directory
 
 2. cd /home : change working directory to home directory
