@@ -1,0 +1,1 @@
+These are scripts to guide you through Shell Permissions
